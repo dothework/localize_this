@@ -1,0 +1,50 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "SUMMARY",
+          "examplePhrases": [
+          ],
+          "name": "NAME",
+          "description": "Stay up to date on the most popular sales and downloads from Apple with DESCRIPTION.\n\nAutomatically updated every day - so you'll always have the current information. All you have to do, is add this skill to your Flash Briefing. \n\nIf you find this skill useful, please give us a 5-Star review.",
+          "smallIconUri": "https://s3.amazonaws.com/sixvoices.alexa.skills/icon_108_A2Z.png",
+          "largeIconUri": "https://s3.amazonaws.com/sixvoices.alexa.skills/icon_512_A2Z.png"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "None",
+      "category": "CATEGORY",
+      "distributionCountries": []
+    }, 
+    "manifestVersion": "1.0",
+    "apis": {
+      "flashBriefing": {
+        "locales": {
+          "en-US": {
+            "customErrorMessage": "The flash briefing is unavailable at the moment.",
+            "feeds": [
+              {
+                "isDefault": true,
+                "vuiPreamble": "VUIPREAMBLE",
+                "imageUri": "https://s3.amazonaws.com/sixvoices.alexa.skills/icon_512_A2Z.png",
+                "name": "FEEDTITLE",
+                "genre": "GENRE",
+                "updateFrequency": "UPDATEFREQUENCY",
+                "contentType": "TEXT",
+                "url": "FEEDURL"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
