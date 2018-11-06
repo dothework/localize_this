@@ -28,9 +28,6 @@ Only the description field needs to be localized.
 
 __Leave the DESCRIPTION word in place. That is replaced with the summary data from appleFeeds.json__
 
-### Localize this array
-['January','February','March','April','May','June','July','August','September','October','November','December']
-
 ### Localize this string
 'I am unable to get the listing for you, as there is an issue with the feed from Apple. Please check back soon for updates.'
 
