@@ -289,16 +289,16 @@
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/books/top-paid/all/10/explicit.json,"
         },
         {
-            "skillId": "COUNTRY_CODE_tv-shows_top-tv-shows",
+            "skillId": "COUNTRY_CODE_tv-shows_top-tv-seasons",
             "category": "MUSIC_AND_AUDIO_KNOWLEDGE_AND_TRIVIA",
-            "name": "Top TV Shows from Apple TV - COUNTRY_NAME",
-            "summary": "The Top 10 TV Shows in COUNTRY_NAME, from Apple TV",
+            "name": "Top TV Seasons from Apple TV - COUNTRY_NAME",
+            "summary": "The Top 10 TV Seaasons in COUNTRY_NAME, from Apple TV",
             "vuiPreamble": "from the apple tv shows store",
             "genre": "ENTERTAINMENT",
-            "feedTitle": "Top TV Shows",
+            "feedTitle": "Top TV Seasons",
             "updateFrequency": "DAILY",
             "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
-            "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/tv-shows/top-tv-shows/all/10/explicit.json,"
+            "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/tv-shows/top-tv-seasons/all/10/explicit.json,"
         },
         {
             "skillId": "COUNTRY_CODE_tv-shows_top-tv-episodes",
