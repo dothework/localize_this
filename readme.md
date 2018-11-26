@@ -1,6 +1,6 @@
 ## Localization Guide
 
-NOTE: Translate from en-US to de-DE and, if possible, fr-FR. 
+__NOTE: Translate from en-US to jp-JP, es-MX,and es-ES.__
 
 ### Getting Sample output from the current porcess
 You can try it here [https://xrzemepq90.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-button?skillId=de_apple-music_coming-soon&locale=en-GB](https://xrzemepq90.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-button?skillId=de_apple-music_coming-soon&locale=en-GB)
