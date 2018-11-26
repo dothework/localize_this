@@ -9,7 +9,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Coming Soon from Apple Music Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/apple-music/coming-soon/all/10/explicit.json,"
         },
         {
@@ -21,7 +21,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Hot Tracks from Apple Music Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/apple-music/hot-tracks/all/10/explicit.json,"
         },
         {
@@ -33,7 +33,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "New Releases from Apple Music Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/apple-music/new-releases/all/10/explicit.json,"
         },
         {
@@ -45,7 +45,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Albums from Apple Music",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/apple-music/top-albums/all/10/explicit.json,"
         },
         {
@@ -57,7 +57,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Songs from Apple Music Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/apple-music/top-songs/all/10/explicit.json,"
         },
         {
@@ -69,7 +69,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Hot Tracks from iTunes Music Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/itunes-music/hot-tracks/all/10/explicit.json,"
         },
         {
@@ -81,7 +81,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "New Music from iTunes Music Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/itunes-music/new-music/all/10/explicit.json,"
         },
         {
@@ -93,7 +93,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Recent Releases from iTunes Music Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/itunes-music/recent-releases/all/10/explicit.json,"
         },
         {
@@ -105,7 +105,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Albums from iTunes Music Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/itunes-music/top-albums/all/10/explicit.json,"
         },
         {
@@ -117,7 +117,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Songs from iTunes Music Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/itunes-music/top-songs/all/10/explicit.json,"
         },
         {
@@ -129,7 +129,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "New Apps We Love in iOS Apps Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/ios-apps/new-apps-we-love/all/10/explicit.json,"
         },
         {
@@ -141,7 +141,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "New Games We Love in iOS Apps Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/ios-apps/new-games-we-love/all/10/explicit.json,"
         },
         {
@@ -153,7 +153,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Free iOS Apps Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/ios-apps/top-free/all/10/explicit.json,"
         },
         {
@@ -165,7 +165,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Free iPad iOS Apps Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/ios-apps/top-free-ipad/all/10/explicit.json,"
         },
         {
@@ -177,7 +177,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Grossing iOS Apps Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/ios-apps/top-grossing/all/10/explicit.json,"
         },
         {
@@ -189,7 +189,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Grosssig iPad iOS Apps Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/ios-apps/top-grossing-ipad/all/10/explicit.json,"
         },
         {
@@ -201,7 +201,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Paid iOS Apps Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/ios-apps/top-paid/all/10/explicit.json,"
         },
         {
@@ -213,7 +213,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Free Mac Apps Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/macos-apps/top-free-mac-apps/all/10/explicit.json,"
         },
         {
@@ -225,7 +225,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Grossing Mac Apps Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/macos-apps/top-grossing-mac-apps/all/10/explicit.json,"
         },
         {
@@ -237,7 +237,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Mac Apps Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/macos-apps/top-mac-apps/all/10/explicit.json,"
         },
         {
@@ -249,7 +249,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Paid Mac Apps",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/macos-apps/top-paid-mac-apps/all/10/explicit.json,"
         },
         {
@@ -261,7 +261,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Audiobooks Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/audiobooks/top-audiobooks/all/10/explicit.json,"
         },
         {
@@ -273,7 +273,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Free Books Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/books/top-free/all/10/explicit.json,"
         },
         {
@@ -285,7 +285,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Paid Books Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/books/top-paid/all/10/explicit.json,"
         },
         {
@@ -297,7 +297,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top TV Seasons Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/tv-shows/top-tv-seasons/all/10/explicit.json,"
         },
         {
@@ -309,7 +309,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top TV Episodes Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/tv-shows/top-tv-episodes/all/10/explicit.json,"
         },
         {
@@ -321,7 +321,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Movies Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/movies/top-movies/all/10/explicit.json,"
         },
         {
@@ -333,7 +333,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top iTunes U Courses Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/itunes-u/top-itunes-u-courses/all/10/explicit.json,"
         },
         {
@@ -345,7 +345,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Podcasts Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/podcasts/top-podcasts/all/10/explicit.json,"
         },
         {
@@ -357,7 +357,7 @@
             "genre": "ENTERTAINMENT",
             "feedTitle": "Top Music Videos Unofficial",
             "updateFrequency": "DAILY",
-            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID",
+            "feedURL": "https://5s2flu0jv3.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-default?skillId=SKILLID&locale=COUNTRY_CODE",
             "rssURL": "https://rss.itunes.apple.com/api/v1/COUNTRY_CODE/music-videos/top-music-videos/all/10/explicit.json,"
         }
     ]
