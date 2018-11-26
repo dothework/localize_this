@@ -5,7 +5,7 @@ NOTE: Translate from en-US to de-DE and, if possible, fr-FR.
 ### Getting Sample output from the current porcess
 You can try it here [https://xrzemepq90.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-button?skillId=de_apple-music_coming-soon&locale=en-GB](https://xrzemepq90.execute-api.us-east-1.amazonaws.com/default/ask-custom-AppleRSS-button?skillId=de_apple-music_coming-soon&locale=en-GB)
 
-Locales you can use today (althought translation isn't completed - yet!)
+Locales you can use today
 - en-CA
 - en-GB
 - en-US
